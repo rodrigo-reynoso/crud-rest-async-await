@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pedro Pablo Alvarez",
+      "email": "pablo33@correo.com",
+      "telefono": "3254539877",
+      "empresa": "farmaceutica dc",
+      "id": 1
+    },
+    {
+      "nombre": "Alfonso",
+      "email": "correo@correo.com",
+      "telefono": "45345345",
+      "empresa": "Sodas",
+      "id": 3
+    }
+  ]
+}
